@@ -8,12 +8,12 @@ import android.hardware.Camera;
 import android.view.SurfaceHolder;
 import android.view.SurfaceView;
 
-public class CameraSurfaceView extends SurfaceView implements SurfaceHolder.Callback {
+public class CameraPreview extends SurfaceView implements SurfaceHolder.Callback {
 
 	private SurfaceHolder mHolder;
 	private Camera camera = null;
 	
-	public CameraSurfaceView(Context context){
+	public CameraPreview(Context context){
 		super(context);
 		mHolder = getHolder();
 		mHolder.addCallback(this);

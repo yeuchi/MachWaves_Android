@@ -6,5 +6,13 @@
     <string name="hello_world">Hello world!</string>
     <string name="test1">test1</string>
     <string name="test2">test2</string>
+    
+    <string name="Fragment2">what do you want configurable ?</string>
+    <string name="Fragment3_title">MachWaves v2.0</string>
+    <string name="Fragment3_p0">Use this app to record photo, video and quickly calculate Mach angle and Mach Number.</string>
+    <string name="Fragment3_p1">1) record photo or video with camera.</string>
+    <string name="Fragment3_p2">2) touch-drag to draw 2 lines over compressible threshold.</string>
+    <string name="Fragment3_p3">Result: Level ine (green), Mach angle, Mach number are present at top.</string>
+    <string name="Fragment3_link">Learn more: http://ctyeung.com/mobile/machwaves/</string>
 
 </resources>

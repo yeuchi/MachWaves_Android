@@ -33,26 +33,43 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
     }
     public static final class drawable {
         public static final int ic_launcher=0x7f020000;
+        public static final int logo=0x7f020001;
     }
     public static final class id {
-        public static final int action_settings=0x7f090008;
-        public static final int button_back=0x7f090006;
-        public static final int button_capture=0x7f090004;
-        public static final int button_clear=0x7f090005;
-        public static final int frame=0x7f090002;
-        public static final int fullscreen_content=0x7f090000;
-        public static final int fullscreen_content_controls=0x7f090001;
-        public static final int imageView1=0x7f090003;
-        public static final int txtResult=0x7f090007;
+        public static final int about_linearLayout1=0x7f090006;
+        public static final int about_linearLayout2=0x7f090007;
+        public static final int about_linearLayout3=0x7f090009;
+        public static final int about_link=0x7f09000e;
+        public static final int about_txt0=0x7f09000a;
+        public static final int about_txt1=0x7f09000b;
+        public static final int about_txt2=0x7f09000c;
+        public static final int about_txt3=0x7f09000d;
+        public static final int action_settings=0x7f09000f;
+        public static final int button_capture=0x7f090003;
+        public static final int button_clear=0x7f090004;
+        public static final int fragment_container=0x7f090000;
+        public static final int frame=0x7f090001;
+        public static final int imageView1=0x7f090002;
+        public static final int logo=0x7f090008;
+        public static final int txtResult=0x7f090005;
     }
     public static final class layout {
-        public static final int activity_fullscreen=0x7f030000;
-        public static final int activity_main=0x7f030001;
+        public static final int activity_main=0x7f030000;
+        public static final int fragment1=0x7f030001;
+        public static final int fragment2=0x7f030002;
+        public static final int fragment3=0x7f030003;
     }
     public static final class menu {
         public static final int main=0x7f080000;
     }
     public static final class string {
+        public static final int Fragment2=0x7f060005;
+        public static final int Fragment3_link=0x7f06000b;
+        public static final int Fragment3_p0=0x7f060007;
+        public static final int Fragment3_p1=0x7f060008;
+        public static final int Fragment3_p2=0x7f060009;
+        public static final int Fragment3_p3=0x7f06000a;
+        public static final int Fragment3_title=0x7f060006;
         public static final int action_settings=0x7f060001;
         public static final int app_name=0x7f060000;
         public static final int hello_world=0x7f060002;
